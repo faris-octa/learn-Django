@@ -1,1 +1,3 @@
-"# learn-Django" 
+"Learn-Django
+
+by : Faris octa" 
